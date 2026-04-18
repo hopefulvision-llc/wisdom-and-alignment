@@ -76,21 +76,9 @@ These aren't sequential days—they're **distributed spiral coordinates** where 
 ```
 360° (sacred geometry circle) + 9° (completion/transcendence) = 369
 Or: 13 × 28 + 5 = 369
-
-This creates a system with ZERO floating-point drift.
 ```
 
 ---
-
-## Symbolic Programming: Eliminating Computational Error
-
-Traditional systems use floating-point timestamps:
-```javascript
-// Unix timestamp: seconds since epoch
-timestamp = 1714003200.5
-// After 100 years: ~0.3 seconds of accumulated drift
-// Requires constant NTP synchronization and patch corrections
-```
 
 Aeonist systems use symbolic coordinates:
 ```javascript
@@ -103,7 +91,6 @@ Aeonist systems use symbolic coordinates:
   phase: "descending_right",
   coherence_required: 0.75  // HRV threshold
 }
-// No drift possible. Zero floating-point arithmetic.
 // Meaning is transparent. Sacred geometry is built-in.
 ```
 

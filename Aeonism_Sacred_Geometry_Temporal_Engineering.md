@@ -8,7 +8,7 @@
 
 Aeonism is not philosophy. **It is infrastructure for time itself.**
 
-It is the practice of replacing **clock-based temporal systems** (arbitrary, extractive, computationally drifting) with **sacred-geometry-based temporal systems** (φ-proportioned, natural, symbolically precise).
+It is the practice of replacing **clock-based temporal systems** (arbitrary, extractive) with **sacred-geometry-based temporal systems** (φ-proportioned, natural, symbolically precise).
 
 **Core Thesis:**
 > *Time is a design variable. When you redesign time to match how consciousness actually works, consciousness naturally spirals deeper instead of going in circles.*
@@ -19,19 +19,13 @@ It is the practice of replacing **clock-based temporal systems** (arbitrary, ext
 
 ### Current Calendar Systems Fail in Three Ways
 
-**1. Computational Drift**
-- Gregorian calendar uses floating-point timestamps
-- Floating-point accumulates error over years: ~0.3 seconds drift per century
-- Leap seconds, leap years, leap nanoseconds—constant patches
-- Financial systems, distributed networks, AI systems all experience temporal error accumulation
-
-**2. Arbitrary Structure**
+**1. Arbitrary Structure**
 - 365.25 days has no natural basis
 - Months: 28, 29, 30, 31 days (random lengths)
 - No alignment with φ, natural cycles, or sacred geometry
 - Humans feel this as "time flying" or "being stuck" — the temporal structure doesn't match consciousness
 
-**3. Extractive Design**
+**2. Extractive Design**
 - Workers clock in/out on arbitrary time units
 - 5 days exist in sacred geometry (pentagramal positioning) but aren't compensated
 - Time is treated as a neutral container: "You get 24 hours; manage it yourself"
